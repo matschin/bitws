@@ -2,6 +2,10 @@
 
 This is a project template for AEM-based applications. It is intended as a best-practice set of examples as well as a potential starting point to develop your own functionality.
 
+Used this template to make a simple demo of a Sling Model Exporter based on the nice presentation here:
+https://docs.adobe.com/content/help/en/experience-manager-learn/foundation/development/develop-sling-model-exporter.html
+
+
 ## Modules
 
 The main parts of the template are:
